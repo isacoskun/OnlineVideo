@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189129609189",
+    "firebase_url": "https://online-video-ca550.firebaseio.com",
+    "project_id": "online-video-ca550",
+    "storage_bucket": "online-video-ca550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189129609189:android:b6ba67136f3e7ed6",
+        "android_client_info": {
+          "package_name": "onlinevideo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189129609189-0qjeefiibrtm1mk1ophqtotu0a71vcic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onlinevideo.app",
+            "certificate_hash": "e7ce2c17a700e540574d03c30e9e49216f16524f"
+          }
+        },
+        {
+          "client_id": "189129609189-4plepfm3k0qe3p8trk8n7n1cq5skenaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOszasBK2K5jwqB9RWOZQv9GDiSzqCx0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189129609189-4plepfm3k0qe3p8trk8n7n1cq5skenaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
